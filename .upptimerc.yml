@@ -4,11 +4,11 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Main Platform
-    url: http://circuitverse.org/
+    url: https://circuitverse.org/
   - name: Interactive Book
-    url: http://learn.circuitverse.org/
+    url: https://learn.circuitverse.org/
   - name: Docs
-    url: http://docs.circuitverse.org/
+    url: https://docs.circuitverse.org/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
