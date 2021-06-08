@@ -40,17 +40,19 @@
     "url": "https://docs.circuitverse.org/",
     "icon": "https://favicons.githubusercontent.com/docs.circuitverse.org",
     "slug": "docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 196,
-    "timeDay": 298,
-    "timeWeek": 204,
-    "timeMonth": 196,
-    "timeYear": 196,
-    "dailyMinutesDown": {}
+    "time": 195,
+    "timeDay": 236,
+    "timeWeek": 200,
+    "timeMonth": 195,
+    "timeYear": 195,
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   }
 ]
