@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/circuitverse.org",
     "slug": "main-platform",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "93.12%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.90%",
+    "uptimeDay": "90.44%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.90%",
     "time": 622,
     "timeDay": 752,
     "timeWeek": 669,
     "timeMonth": 647,
     "timeYear": 622,
     "dailyMinutesDown": {
-      "2021-08-28": 99
+      "2021-08-28": 138
     }
   },
   {
@@ -24,36 +24,39 @@
     "url": "https://learn.circuitverse.org/",
     "icon": "https://favicons.githubusercontent.com/learn.circuitverse.org",
     "slug": "interactive-book",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 320,
-    "timeWeek": 245,
+    "timeDay": 252,
+    "timeWeek": 238,
     "timeMonth": 194,
     "timeYear": 188,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-28": 0
+    }
   },
   {
     "name": "Docs",
     "url": "https://docs.circuitverse.org/",
     "icon": "https://favicons.githubusercontent.com/docs.circuitverse.org",
     "slug": "docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 186,
-    "timeDay": 348,
-    "timeWeek": 277,
-    "timeMonth": 186,
-    "timeYear": 186,
+    "time": 185,
+    "timeDay": 204,
+    "timeWeek": 250,
+    "timeMonth": 182,
+    "timeYear": 185,
     "dailyMinutesDown": {
+      "2021-08-28": 0,
       "2021-06-08": 30
     }
   }
