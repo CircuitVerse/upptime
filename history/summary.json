@@ -4,17 +4,17 @@
     "url": "https://circuitverse.org/",
     "icon": "https://favicons.githubusercontent.com/circuitverse.org",
     "slug": "main-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "98.83%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 618,
-    "timeDay": 637,
-    "timeWeek": 620,
-    "timeMonth": 633,
-    "timeYear": 618,
+    "time": 619,
+    "timeDay": 701,
+    "timeWeek": 643,
+    "timeMonth": 639,
+    "timeYear": 619,
     "dailyMinutesDown": {
       "2021-08-28": 17
     }
