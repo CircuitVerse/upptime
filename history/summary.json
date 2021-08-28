@@ -4,7 +4,7 @@
     "url": "https://circuitverse.org/",
     "icon": "https://favicons.githubusercontent.com/circuitverse.org",
     "slug": "main-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 636,
     "timeMonth": 637,
     "timeYear": 619,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-28": 0
+    }
   },
   {
     "name": "Interactive Book",
