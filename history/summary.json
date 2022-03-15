@@ -4,7 +4,7 @@
     "url": "https://circuitverse.org/",
     "icon": "https://favicons.githubusercontent.com/circuitverse.org",
     "slug": "main-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "98.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 504,
     "timeYear": 681,
     "dailyMinutesDown": {
+      "2022-03-15": 0,
       "2021-11-23": 134,
       "2021-11-22": 181,
       "2021-10-12": 182,
