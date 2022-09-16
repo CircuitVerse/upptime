@@ -11,10 +11,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.69%",
     "time": 699,
-    "timeDay": 464,
-    "timeWeek": 525,
-    "timeMonth": 583,
-    "timeYear": 716,
+    "timeDay": 624,
+    "timeWeek": 548,
+    "timeMonth": 586,
+    "timeYear": 715,
     "dailyMinutesDown": {
       "2022-09-09": 17,
       "2022-07-01": 48,
@@ -27,8 +27,7 @@
       "2022-03-15": 52,
       "2021-11-23": 134,
       "2021-11-22": 181,
-      "2021-10-12": 182,
-      "2021-09-16": 17
+      "2021-10-12": 182
     }
   },
   {
@@ -43,9 +42,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 192,
-    "timeDay": 222,
-    "timeWeek": 206,
-    "timeMonth": 210,
+    "timeDay": 146,
+    "timeWeek": 207,
+    "timeMonth": 209,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2022-07-01": 48,
@@ -58,15 +57,15 @@
     "icon": "https://favicons.githubusercontent.com/docs.circuitverse.org",
     "slug": "docs",
     "status": "up",
-    "uptime": "99.17%",
+    "uptime": "99.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 240,
-    "timeDay": 167,
-    "timeWeek": 207,
-    "timeMonth": 221,
+    "timeDay": 255,
+    "timeWeek": 218,
+    "timeMonth": 220,
     "timeYear": 259,
     "dailyMinutesDown": {
       "2022-07-01": 24,
