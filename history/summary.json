@@ -4,7 +4,7 @@
     "url": "https://circuitverse.org/",
     "icon": "https://icons.duckduckgo.com/ip3/circuitverse.org.ico",
     "slug": "main-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 893,
     "timeYear": 784,
     "dailyMinutesDown": {
+      "2023-02-18": 0,
       "2022-12-19": 178,
       "2022-11-26": 222,
       "2022-11-25": 399,
