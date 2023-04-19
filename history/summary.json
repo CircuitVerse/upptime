@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/circuitverse.org.ico",
     "slug": "main-platform",
     "status": "up",
-    "uptime": "99.14%",
+    "uptime": "99.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.61%",
     "time": 785,
-    "timeDay": 957,
-    "timeWeek": 967,
-    "timeMonth": 877,
-    "timeYear": 834,
+    "timeDay": 972,
+    "timeWeek": 989,
+    "timeMonth": 889,
+    "timeYear": 835,
     "dailyMinutesDown": {
       "2023-02-19": 40,
       "2023-02-18": 23,
@@ -27,8 +27,7 @@
       "2022-06-21": 36,
       "2022-05-16": 79,
       "2022-05-08": 38,
-      "2022-04-20": 54,
-      "2022-04-19": 603
+      "2022-04-20": 54
     }
   },
   {
@@ -43,8 +42,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 201,
-    "timeDay": 174,
-    "timeWeek": 198,
+    "timeDay": 156,
+    "timeWeek": 182,
     "timeMonth": 177,
     "timeYear": 212,
     "dailyMinutesDown": {
@@ -64,8 +63,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 282,
-    "timeDay": 297,
-    "timeWeek": 209,
+    "timeDay": 178,
+    "timeWeek": 222,
     "timeMonth": 210,
     "timeYear": 314,
     "dailyMinutesDown": {
