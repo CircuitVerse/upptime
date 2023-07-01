@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/circuitverse.org.ico",
     "slug": "main-platform",
     "status": "down",
-    "uptime": "99.18%",
-    "uptimeDay": "90.36%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.65%",
+    "uptime": "99.17%",
+    "uptimeDay": "84.13%",
+    "uptimeWeek": "97.73%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.64%",
     "time": 909,
     "timeDay": 11216,
     "timeWeek": 5566,
-    "timeMonth": 2324,
+    "timeMonth": 2359,
     "timeYear": 1004,
     "dailyMinutesDown": {
-      "2023-06-30": 139,
+      "2023-07-01": 85,
+      "2023-06-30": 144,
       "2023-05-25": 338,
       "2023-05-24": 41,
       "2023-02-19": 40,
@@ -25,8 +26,7 @@
       "2022-11-26": 222,
       "2022-11-25": 399,
       "2022-10-11": 379,
-      "2022-09-09": 17,
-      "2022-07-01": 48
+      "2022-09-09": 17
     }
   },
   {
@@ -45,9 +45,7 @@
     "timeWeek": 158,
     "timeMonth": 175,
     "timeYear": 209,
-    "dailyMinutesDown": {
-      "2022-07-01": 48
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Docs",
@@ -67,8 +65,7 @@
     "timeYear": 249,
     "dailyMinutesDown": {
       "2022-12-08": 44,
-      "2022-10-16": 170,
-      "2022-07-01": 24
+      "2022-10-16": 170
     }
   }
 ]
