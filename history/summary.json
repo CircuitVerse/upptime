@@ -8,13 +8,13 @@
     "uptime": "99.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.55%",
-    "time": 1588,
-    "timeDay": 685,
-    "timeWeek": 715,
-    "timeMonth": 1147,
-    "timeYear": 1614,
+    "time": 1587,
+    "timeDay": 443,
+    "timeWeek": 678,
+    "timeMonth": 1149,
+    "timeYear": 1613,
     "dailyMinutesDown": {
       "2024-10-23": 22,
       "2024-10-09": 21,
@@ -44,8 +44,7 @@
       "2023-12-27": 60,
       "2023-12-24": 35,
       "2023-12-22": 219,
-      "2023-12-07": 20,
-      "2023-11-10": 68
+      "2023-12-07": 20
     }
   },
   {
@@ -60,9 +59,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 239,
-    "timeWeek": 216,
-    "timeMonth": 252,
+    "timeDay": 221,
+    "timeWeek": 211,
+    "timeMonth": 255,
     "timeYear": 210,
     "dailyMinutesDown": {}
   },
@@ -72,16 +71,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.circuitverse.org.ico",
     "slug": "docs",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 238,
-    "timeWeek": 200,
+    "timeDay": 338,
+    "timeWeek": 215,
     "timeMonth": 250,
-    "timeYear": 220,
+    "timeYear": 221,
     "dailyMinutesDown": {}
   }
 ]
