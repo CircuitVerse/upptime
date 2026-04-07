@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "62.96%",
     "time": 648,
-    "timeDay": 458,
-    "timeWeek": 480,
+    "timeDay": 717,
+    "timeWeek": 534,
     "timeMonth": 584,
-    "timeYear": 653,
+    "timeYear": 654,
     "dailyMinutesDown": {
       "2026-02-25": 260,
       "2026-02-24": 189,
@@ -160,8 +160,7 @@
       "2025-04-11": 1440,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
-      "2025-04-08": 1440,
-      "2025-04-07": 752
+      "2025-04-08": 1440
     }
   },
   {
@@ -170,15 +169,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/learn.circuitverse.org.ico",
     "slug": "interactive-book",
     "status": "up",
-    "uptime": "92.21%",
+    "uptime": "92.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "63.14%",
     "time": 243,
-    "timeDay": 209,
-    "timeWeek": 195,
-    "timeMonth": 357,
+    "timeDay": 205,
+    "timeWeek": 207,
+    "timeMonth": 359,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2026-02-02": 306,
@@ -316,8 +315,7 @@
       "2025-04-11": 1440,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
-      "2025-04-08": 1440,
-      "2025-04-07": 752
+      "2025-04-08": 1440
     }
   },
   {
@@ -332,9 +330,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "63.15%",
     "time": 290,
-    "timeDay": 238,
-    "timeWeek": 282,
-    "timeMonth": 261,
+    "timeDay": 509,
+    "timeWeek": 330,
+    "timeMonth": 263,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2026-02-25": 55,
@@ -475,8 +473,7 @@
       "2025-04-11": 1440,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
-      "2025-04-08": 1440,
-      "2025-04-07": 752
+      "2025-04-08": 1440
     }
   }
 ]
