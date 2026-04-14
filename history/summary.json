@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/circuitverse.org.ico",
     "slug": "main-platform",
     "status": "up",
-    "uptime": "91.95%",
+    "uptime": "91.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "64.50%",
-    "time": 647,
-    "timeDay": 522,
-    "timeWeek": 469,
-    "timeMonth": 507,
-    "timeYear": 658,
+    "uptimeYear": "64.78%",
+    "time": 646,
+    "timeDay": 461,
+    "timeWeek": 432,
+    "timeMonth": 497,
+    "timeYear": 659,
     "dailyMinutesDown": {
       "2026-02-25": 260,
       "2026-02-24": 189,
@@ -153,8 +153,7 @@
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
-      "2025-04-15": 1440,
-      "2025-04-14": 1440
+      "2025-04-15": 1440
     }
   },
   {
@@ -167,11 +166,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "64.68%",
+    "uptimeYear": "64.96%",
     "time": 242,
-    "timeDay": 112,
-    "timeWeek": 190,
-    "timeMonth": 350,
+    "timeDay": 261,
+    "timeWeek": 198,
+    "timeMonth": 349,
     "timeYear": 246,
     "dailyMinutesDown": {
       "2026-02-02": 306,
@@ -302,8 +301,7 @@
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
-      "2025-04-15": 1440,
-      "2025-04-14": 1440
+      "2025-04-15": 1440
     }
   },
   {
@@ -316,12 +314,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "64.70%",
-    "time": 290,
-    "timeDay": 240,
-    "timeWeek": 268,
-    "timeMonth": 262,
-    "timeYear": 301,
+    "uptimeYear": "64.97%",
+    "time": 291,
+    "timeDay": 329,
+    "timeWeek": 243,
+    "timeMonth": 271,
+    "timeYear": 302,
     "dailyMinutesDown": {
       "2026-02-25": 55,
       "2026-02-10": 123,
@@ -454,8 +452,7 @@
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
-      "2025-04-15": 1440,
-      "2025-04-14": 1440
+      "2025-04-15": 1440
     }
   }
 ]
