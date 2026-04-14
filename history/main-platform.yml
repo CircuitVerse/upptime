@@ -1,7 +1,7 @@
 url: https://circuitverse.org/
-status: up
-code: 200
-responseTime: 461
-lastUpdated: 2026-04-13T23:37:13.154Z
+status: down
+code: 502
+responseTime: 3411
+lastUpdated: 2026-04-14T20:35:57.153Z
 startTime: 2021-05-23T10:37:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
