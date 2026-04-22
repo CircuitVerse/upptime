@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/circuitverse.org.ico",
     "slug": "main-platform",
     "status": "up",
-    "uptime": "91.97%",
+    "uptime": "91.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.87%",
+    "uptimeWeek": "99.36%",
     "uptimeMonth": "99.05%",
-    "uptimeYear": "66.62%",
-    "time": 656,
-    "timeDay": 590,
-    "timeWeek": 1156,
-    "timeMonth": 669,
-    "timeYear": 678,
+    "uptimeYear": "66.89%",
+    "time": 655,
+    "timeDay": 606,
+    "timeWeek": 518,
+    "timeMonth": 667,
+    "timeYear": 679,
     "dailyMinutesDown": {
       "2026-04-15": 212,
       "2026-04-14": 204,
@@ -147,8 +147,7 @@
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
-      "2025-04-23": 1440,
-      "2025-04-22": 1440
+      "2025-04-23": 1440
     }
   },
   {
@@ -161,11 +160,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "66.87%",
-    "time": 242,
-    "timeDay": 165,
-    "timeWeek": 196,
-    "timeMonth": 208,
+    "uptimeYear": "67.15%",
+    "time": 241,
+    "timeDay": 152,
+    "timeWeek": 178,
+    "timeMonth": 206,
     "timeYear": 246,
     "dailyMinutesDown": {
       "2026-02-02": 306,
@@ -288,8 +287,7 @@
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
-      "2025-04-23": 1440,
-      "2025-04-22": 1440
+      "2025-04-23": 1440
     }
   },
   {
@@ -298,15 +296,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.circuitverse.org.ico",
     "slug": "docs",
     "status": "up",
-    "uptime": "92.27%",
+    "uptime": "92.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "66.89%",
+    "uptimeYear": "67.16%",
     "time": 284,
-    "timeDay": 149,
-    "timeWeek": 246,
-    "timeMonth": 273,
+    "timeDay": 210,
+    "timeWeek": 232,
+    "timeMonth": 267,
     "timeYear": 302,
     "dailyMinutesDown": {
       "2026-02-25": 55,
@@ -432,8 +430,7 @@
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
-      "2025-04-23": 1440,
-      "2025-04-22": 1440
+      "2025-04-23": 1440
     }
   }
 ]
