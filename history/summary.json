@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/circuitverse.org.ico",
     "slug": "main-platform",
     "status": "up",
-    "uptime": "91.99%",
+    "uptime": "92.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.05%",
-    "uptimeYear": "67.99%",
+    "uptimeYear": "68.26%",
     "time": 654,
-    "timeDay": 583,
-    "timeWeek": 512,
-    "timeMonth": 674,
-    "timeYear": 682,
+    "timeDay": 693,
+    "timeWeek": 550,
+    "timeMonth": 680,
+    "timeYear": 683,
     "dailyMinutesDown": {
       "2026-04-15": 212,
       "2026-04-14": 204,
@@ -142,8 +142,7 @@
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
-      "2025-04-28": 1440,
-      "2025-04-27": 1440
+      "2025-04-28": 1440
     }
   },
   {
@@ -152,16 +151,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/learn.circuitverse.org.ico",
     "slug": "interactive-book",
     "status": "up",
-    "uptime": "92.30%",
+    "uptime": "92.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "68.24%",
+    "uptimeYear": "68.52%",
     "time": 241,
-    "timeDay": 227,
-    "timeWeek": 181,
-    "timeMonth": 206,
-    "timeYear": 246,
+    "timeDay": 196,
+    "timeWeek": 185,
+    "timeMonth": 201,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2026-02-02": 306,
       "2025-11-18": 167,
@@ -278,8 +277,7 @@
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
-      "2025-04-28": 1440,
-      "2025-04-27": 1440
+      "2025-04-28": 1440
     }
   },
   {
@@ -288,15 +286,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.circuitverse.org.ico",
     "slug": "docs",
     "status": "up",
-    "uptime": "92.29%",
+    "uptime": "92.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "68.26%",
+    "uptimeYear": "68.53%",
     "time": 283,
-    "timeDay": 160,
-    "timeWeek": 193,
-    "timeMonth": 262,
+    "timeDay": 197,
+    "timeWeek": 196,
+    "timeMonth": 256,
     "timeYear": 302,
     "dailyMinutesDown": {
       "2026-02-25": 55,
@@ -417,8 +415,7 @@
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
-      "2025-04-28": 1440,
-      "2025-04-27": 1440
+      "2025-04-28": 1440
     }
   }
 ]
