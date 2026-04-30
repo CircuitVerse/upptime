@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.05%",
-    "uptimeYear": "68.81%",
+    "uptimeYear": "69.08%",
     "time": 653,
-    "timeDay": 331,
-    "timeWeek": 496,
-    "timeMonth": 673,
-    "timeYear": 684,
+    "timeDay": 478,
+    "timeWeek": 484,
+    "timeMonth": 669,
+    "timeYear": 685,
     "dailyMinutesDown": {
       "2026-04-15": 212,
       "2026-04-14": 204,
@@ -139,8 +139,7 @@
       "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
-      "2025-05-01": 1440,
-      "2025-04-30": 1440
+      "2025-05-01": 1440
     }
   },
   {
@@ -149,16 +148,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/learn.circuitverse.org.ico",
     "slug": "interactive-book",
     "status": "up",
-    "uptime": "92.31%",
+    "uptime": "92.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "69.07%",
+    "uptimeYear": "69.34%",
     "time": 241,
-    "timeDay": 263,
-    "timeWeek": 218,
+    "timeDay": 101,
+    "timeWeek": 206,
     "timeMonth": 197,
-    "timeYear": 246,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2026-02-02": 306,
       "2025-11-18": 167,
@@ -272,8 +271,7 @@
       "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
-      "2025-05-01": 1440,
-      "2025-04-30": 1440
+      "2025-05-01": 1440
     }
   },
   {
@@ -286,12 +284,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "69.08%",
-    "time": 284,
-    "timeDay": 389,
-    "timeWeek": 244,
-    "timeMonth": 258,
-    "timeYear": 304,
+    "uptimeYear": "69.36%",
+    "time": 285,
+    "timeDay": 1003,
+    "timeWeek": 368,
+    "timeMonth": 285,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2026-02-25": 55,
       "2026-02-10": 123,
@@ -408,8 +406,7 @@
       "2025-05-04": 1440,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
-      "2025-05-01": 1440,
-      "2025-04-30": 1440
+      "2025-05-01": 1440
     }
   }
 ]
