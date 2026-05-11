@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.05%",
-    "uptimeYear": "71.90%",
-    "time": 651,
-    "timeDay": 446,
-    "timeWeek": 488,
-    "timeMonth": 688,
-    "timeYear": 692,
+    "uptimeYear": "72.10%",
+    "time": 652,
+    "timeDay": 697,
+    "timeWeek": 542,
+    "timeMonth": 699,
+    "timeYear": 694,
     "dailyMinutesDown": {
       "2026-04-15": 212,
       "2026-04-14": 204,
@@ -128,8 +128,7 @@
       "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
-      "2025-05-12": 1440,
-      "2025-05-11": 1440
+      "2025-05-12": 1440
     }
   },
   {
@@ -138,16 +137,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/learn.circuitverse.org.ico",
     "slug": "interactive-book",
     "status": "up",
-    "uptime": "92.36%",
+    "uptime": "92.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "72.16%",
+    "uptimeYear": "72.36%",
     "time": 241,
-    "timeDay": 243,
-    "timeWeek": 229,
+    "timeDay": 219,
+    "timeWeek": 219,
     "timeMonth": 216,
-    "timeYear": 246,
+    "timeYear": 247,
     "dailyMinutesDown": {
       "2026-02-02": 306,
       "2025-11-18": 167,
@@ -250,8 +249,7 @@
       "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
-      "2025-05-12": 1440,
-      "2025-05-11": 1440
+      "2025-05-12": 1440
     }
   },
   {
@@ -264,12 +262,12 @@
     "uptimeDay": "92.67%",
     "uptimeWeek": "98.95%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "72.15%",
-    "time": 286,
-    "timeDay": 172,
-    "timeWeek": 186,
-    "timeMonth": 262,
-    "timeYear": 306,
+    "uptimeYear": "72.35%",
+    "time": 287,
+    "timeDay": 252,
+    "timeWeek": 205,
+    "timeMonth": 268,
+    "timeYear": 307,
     "dailyMinutesDown": {
       "2026-05-10": 106,
       "2026-02-25": 55,
@@ -376,8 +374,7 @@
       "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
-      "2025-05-12": 1440,
-      "2025-05-11": 1440
+      "2025-05-12": 1440
     }
   }
 ]
