@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.05%",
-    "uptimeYear": "72.10%",
-    "time": 652,
-    "timeDay": 697,
-    "timeWeek": 542,
-    "timeMonth": 699,
+    "uptimeYear": "72.37%",
+    "time": 651,
+    "timeDay": 417,
+    "timeWeek": 484,
+    "timeMonth": 698,
     "timeYear": 694,
     "dailyMinutesDown": {
       "2026-04-15": 212,
@@ -127,8 +127,7 @@
       "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
-      "2025-05-13": 1440,
-      "2025-05-12": 1440
+      "2025-05-13": 1440
     }
   },
   {
@@ -141,10 +140,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "72.36%",
+    "uptimeYear": "72.63%",
     "time": 241,
-    "timeDay": 219,
-    "timeWeek": 219,
+    "timeDay": 258,
+    "timeWeek": 229,
     "timeMonth": 216,
     "timeYear": 247,
     "dailyMinutesDown": {
@@ -248,8 +247,7 @@
       "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
-      "2025-05-13": 1440,
-      "2025-05-12": 1440
+      "2025-05-13": 1440
     }
   },
   {
@@ -258,15 +256,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.circuitverse.org.ico",
     "slug": "docs",
     "status": "up",
-    "uptime": "92.35%",
-    "uptimeDay": "92.67%",
+    "uptime": "92.36%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.95%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "72.35%",
-    "time": 287,
-    "timeDay": 252,
-    "timeWeek": 205,
-    "timeMonth": 268,
+    "uptimeYear": "72.62%",
+    "time": 286,
+    "timeDay": 208,
+    "timeWeek": 218,
+    "timeMonth": 270,
     "timeYear": 307,
     "dailyMinutesDown": {
       "2026-05-10": 106,
@@ -373,8 +371,7 @@
       "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
-      "2025-05-13": 1440,
-      "2025-05-12": 1440
+      "2025-05-13": 1440
     }
   }
 ]
