@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/circuitverse.org.ico",
     "slug": "main-platform",
     "status": "up",
-    "uptime": "92.09%",
+    "uptime": "92.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "74.30%",
-    "time": 648,
-    "timeDay": 348,
-    "timeWeek": 414,
-    "timeMonth": 495,
-    "timeYear": 697,
+    "uptimeYear": "74.57%",
+    "time": 647,
+    "timeDay": 509,
+    "timeWeek": 437,
+    "timeMonth": 498,
+    "timeYear": 698,
     "dailyMinutesDown": {
       "2026-04-15": 212,
       "2026-04-14": 204,
@@ -119,8 +119,7 @@
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
-      "2025-05-21": 1440,
-      "2025-05-20": 1440
+      "2025-05-21": 1440
     }
   },
   {
@@ -133,11 +132,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "74.56%",
+    "uptimeYear": "74.83%",
     "time": 240,
-    "timeDay": 142,
-    "timeWeek": 193,
-    "timeMonth": 214,
+    "timeDay": 248,
+    "timeWeek": 199,
+    "timeMonth": 216,
     "timeYear": 246,
     "dailyMinutesDown": {
       "2026-02-02": 306,
@@ -232,8 +231,7 @@
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
-      "2025-05-21": 1440,
-      "2025-05-20": 1440
+      "2025-05-21": 1440
     }
   },
   {
@@ -246,12 +244,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "74.55%",
-    "time": 288,
-    "timeDay": 349,
-    "timeWeek": 317,
-    "timeMonth": 278,
-    "timeYear": 309,
+    "uptimeYear": "74.82%",
+    "time": 289,
+    "timeDay": 474,
+    "timeWeek": 354,
+    "timeMonth": 287,
+    "timeYear": 310,
     "dailyMinutesDown": {
       "2026-05-10": 106,
       "2026-02-25": 55,
@@ -349,8 +347,7 @@
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
-      "2025-05-21": 1440,
-      "2025-05-20": 1440
+      "2025-05-21": 1440
     }
   }
 ]
