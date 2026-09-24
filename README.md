@@ -1,6 +1,6 @@
 # [📈 Live Status](https://uptime.circuitverse.org): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime status page for CircuitVerse, powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/CircuitVerse/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/CircuitVerse/upptime/actions/workflows/uptime.yml)
 [![Response Time CI](https://github.com/CircuitVerse/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/CircuitVerse/upptime/actions/workflows/response-time.yml)
