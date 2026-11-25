@@ -6,15 +6,15 @@
     "slug": "main-platform",
     "status": "down",
     "uptime": "92.79%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.50%",
+    "uptimeDay": "91.68%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.48%",
     "time": 742,
-    "timeDay": 456,
-    "timeWeek": 425,
-    "timeMonth": 459,
-    "timeYear": 801,
+    "timeDay": 616,
+    "timeWeek": 455,
+    "timeMonth": 466,
+    "timeYear": 800,
     "dailyMinutesDown": {
       "2025-12-07": 116,
       "2026-01-21": 138,
@@ -29,7 +29,7 @@
       "2026-07-20": 467,
       "2026-07-19": 349,
       "2026-08-21": 49,
-      "2026-11-25": 0
+      "2026-11-25": 120
     }
   },
   {
@@ -44,8 +44,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 249,
-    "timeDay": 127,
-    "timeWeek": 169,
+    "timeDay": 254,
+    "timeWeek": 181,
     "timeMonth": 265,
     "timeYear": 249,
     "dailyMinutesDown": {
@@ -64,9 +64,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 337,
-    "timeDay": 147,
-    "timeWeek": 264,
-    "timeMonth": 262,
+    "timeDay": 94,
+    "timeWeek": 239,
+    "timeMonth": 256,
     "timeYear": 306,
     "dailyMinutesDown": {
       "2026-01-27": 26,
